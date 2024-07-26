@@ -1,5 +1,9 @@
 # Ideas Tracking using react js and appwrite
 
+# Try this here
+
+
+Go to: [Ideas Tracker](https://learning-appwrite-ideas-tracker.vercel.app/)
 
 ## To run this project use this command:
 
