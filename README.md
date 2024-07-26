@@ -1,8 +1,30 @@
-# React + Vite
+# Ideas Tracking using react js and appwrite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## To run this project use this command:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+ npm run dev -- --open --port 3000
+```
+
+## Home Page
+![alt text](image.png)
+
+## Login Page
+![alt text](image-1.png)
+
+
+## Adding new ideas
+![alt text](image-2.png)
+
+
+## Appwrite
+
+
+### Authentication
+
+![auth](image-4.png)
+
+### Database (Collection)
+
+![alt text](image-3.png)
